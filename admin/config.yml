@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: Aurisus/eleventy-netlify-boilerplate
   branch: master
 
 media_folder: "images/uploads"
